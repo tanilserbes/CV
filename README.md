@@ -27,7 +27,7 @@
 <div align="left">
 
 
-# MECHATRONICS ENGINEER WITH BUSINESSS EXPERIENCE
+### MECHATRONICS ENGINEER WITH BUSINESSS EXPERIENCE
 
 I am an ambitious and resourceful mechatronics engineer with
 proven business and management skills, knowledge of mass
@@ -47,7 +47,7 @@ c#, c++
 Multisim
 3D printer
 
-# Personal Skills
+### Personal Skills
 Analytical
 Design thinking
 Problem Solving
@@ -64,30 +64,30 @@ Time Management
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-### Yildiz Technical University (2017-2019)
+#### Yildiz Technical University (2017-2019)
 Istanbul, Turkey
 MBA
 
-### Yildiz Technical University (2009-2014)
+#### Yildiz Technical University (2009-2014)
 Graduated with honors
 Finished with a GPA of 3.00
 Bachelor of Science in Mechatronic Engineer
 
-### West Pomeranian University of Tech. (2012-2013)
+#### West Pomeranian University of Tech. (2012-2013)
 Szczecin, Poland
 Bachelor of Science in Mechatronic Engineer
 
 ## Experience
 
 ### Dogtas Furniture Company, 2018 - 12.2019
-## Assistant E-commerce Manager
+#### Assistant E-commerce Manager
 Leading the Dogtas e-commerce project
 Setting up of online shopping website www.ruumstore.com
 Identifying products and setting marketing strategy
 Liaising with third parties: logistic companies, web agencies
 and online payment companies
 
-## Assistant Product Manager 09.2017-2018
+### Assistant Product Manager 09.2017-2018
 Developing new products by identifying gaps in the portfolio
 and ensuring that Dogtas has first choice of new products from
 suppliers
@@ -100,8 +100,9 @@ analysis
 Working in cooperation with marketing department, interior
 designers and logistics department
 
-### CoFounder, Design Engineer 01.2014 - 07.2017
-## Designing Curebox RRD ROBOTICS ® 3D Printer for production
+### RRD Robotics Co. Ltd. (2014 - 07.2017)
+#### CoFounder, Design Engineer 01.2014 - 07.2017
+Designing Curebox RRD ROBOTICS ® 3D Printer for production
 Setting specifications for every aspect of the machine: materials
 dimensions and weight
 Giving advice on electronics and codings
@@ -111,13 +112,13 @@ Conferring with customers to assess needs and obtain feedback
 Managing the company finances and projects
 
 ### VOLUNTEER EXPERIENCE
-## IAESTE (The International Association for
+#### IAESTE (The International Association for
 Exchange of Students for Technical Experience)
 Liaised with different companies, as member of YTU
 team, to find 70 paid internships for international
 students in Turkey.
 
-## Youth in Action Programme, Lithuania (Certified)
+### Youth in Action Programme, Lithuania (Certified)
 The Youth in Action program aimed to inspire
 active citizenship, solidarity and tolerance and
 involve young people in shaping the future of the
