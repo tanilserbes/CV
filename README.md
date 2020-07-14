@@ -1,20 +1,25 @@
+<a name="cv"><img align="left" src="./images/cv.png" height="50"/></a>
 
-# TANIL SERBES
+<h4 align="right">email&nbsp;:&nbsp;<a href="mailto:serbestanil@gmail.com">Tanil Serbes</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
 
+<h1 align="center">Tanil Serbes</h1>
 
-<div align="center">
+<p align="center">
+<a href="https://www.codewars.com/users/tanilserbes">
+<img src=./images/codewars.png  alt="codewars" hspace="50" height="42" width="42"></a>
+
+<a href="https://medium.com/@serbestanil/google-coding-interview-questions-part-g1-extended-analysis-e20bb7edc25c">
+<img src=./images/Medium-App-Icon-2017.png  alt="medium" hspace="50" height="42" width="42"></a>
+
+<a href="https://www.linkedin.com/in/tanilserbes/">
+<img src=./images/linkedin_circle_color-512.png alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
 [![backround](https://img.shields.io/badge/-Background-orange)](#Backround)
-[![Projects](https://img.shields.io/badge/-Projects-grey)](#Projects) 
-[![Skills](https://img.shields.io/badge/-Skills-orange)](#Skills) 
-[![Experience](https://img.shields.io/badge/-Experience-grey)](#Experience) 
-[![Education](https://img.shields.io/badge/-Education-orange)](#Education) 
-[![Interests](https://img.shields.io/badge/-Interests-grey)](#Interests) 
-
-
-![LinkedIn Profile](https://www.linkedin.com/in/tanilserbes/)
-![Email](mailto:serbestanil@gmail.com)
-![CodeWars Profile](https://www.codewars.com/users/tanilserbes)
+[![Projects](https://img.shields.io/badge/-Projects-grey)](#Projects)
+[![Skills](https://img.shields.io/badge/-Skills-orange)](#Skills)
+[![Experience](https://img.shields.io/badge/-Experience-grey)](#Experience)
+[![Education](https://img.shields.io/badge/-Education-orange)](#Education)
+[![Interests](https://img.shields.io/badge/-Interests-grey)](#Interests)
 
 <a href="https://sourcerer.io/tanilserbes"><img src="https://img.shields.io/badge/JavaScript-225%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/tanilserbes"><img src="https://img.shields.io/badge/Ruby-157%20commits-orange.svg" alt=""></a>
@@ -22,10 +27,7 @@
 <a href="https://sourcerer.io/tanilserbes"><img src="https://img.shields.io/badge/CSS-123%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/tanilserbes"><img src="https://img.shields.io/badge/SQL-49%20commits-orange.svg" alt=""></a>
 
-
-
 <div align="left">
-
 
 ### MECHATRONICS ENGINEER WITH BUSINESSS EXPERIENCE
 
@@ -40,6 +42,7 @@ products that will improve people's lives.
 # Profile
 
 # Professional skills
+
 Advanced Solidworks
 Advanced Ms Office and SAP
 Arduino
@@ -48,12 +51,12 @@ Multisim
 3D printer
 
 ### Personal Skills
+
 Analytical
 Design thinking
 Problem Solving
 Team Management
 Time Management
-
 
 ## Education
 
@@ -65,22 +68,27 @@ Time Management
 - RSpec, Jasmine
 
 #### Yildiz Technical University (2017-2019)
+
 Istanbul, Turkey
 MBA
 
 #### Yildiz Technical University (2009-2014)
+
 Graduated with honors
 Finished with a GPA of 3.00
 Bachelor of Science in Mechatronic Engineer
 
 #### West Pomeranian University of Tech. (2012-2013)
+
 Szczecin, Poland
 Bachelor of Science in Mechatronic Engineer
 
 ## Experience
 
 ### Dogtas Furniture Company, 2018 - 12.2019
+
 #### Assistant E-commerce Manager
+
 Leading the Dogtas e-commerce project
 Setting up of online shopping website www.ruumstore.com
 Identifying products and setting marketing strategy
@@ -88,6 +96,7 @@ Liaising with third parties: logistic companies, web agencies
 and online payment companies
 
 ### Assistant Product Manager 09.2017-2018
+
 Developing new products by identifying gaps in the portfolio
 and ensuring that Dogtas has first choice of new products from
 suppliers
@@ -101,7 +110,9 @@ Working in cooperation with marketing department, interior
 designers and logistics department
 
 ### RRD Robotics Co. Ltd. (2014 - 07.2017)
+
 #### CoFounder, Design Engineer 01.2014 - 07.2017
+
 Designing Curebox RRD ROBOTICS ® 3D Printer for production
 Setting specifications for every aspect of the machine: materials
 dimensions and weight
@@ -112,18 +123,20 @@ Conferring with customers to assess needs and obtain feedback
 Managing the company finances and projects
 
 ### VOLUNTEER EXPERIENCE
+
 #### IAESTE (The International Association for
+
 Exchange of Students for Technical Experience)
 Liaised with different companies, as member of YTU
 team, to find 70 paid internships for international
 students in Turkey.
 
 ### Youth in Action Programme, Lithuania (Certified)
+
 The Youth in Action program aimed to inspire
 active citizenship, solidarity and tolerance and
 involve young people in shaping the future of the
 European Union.
-
 
 ## Hobbies
 
