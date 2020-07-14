@@ -1,4 +1,33 @@
-### TANIL SERBES
+
+# TANIL SERBES
+
+
+<div align="center">
+
+[link to Google](http://google.com) | [link to Google](http://google.com) | 
+
+[![profile](https://img.shields.io/badge/-Profile-pink?style=for-the-badge)](#profile)
+
+![Twitter Profile](https://twitter.com/Hibocodes)
+
+[![Twitter Profile]](https://twitter.com/Hibocodes)
+
+[![Email]](mailto:hiboabdilaahi@gmail.com)
+
+[![LinkedIn Profile]](https://www.linkedin.com/in/hibo-abdilaahi-68405017b/)
+
+
+
+<a href="https://sourcerer.io/tanilserbes"><img src="https://img.shields.io/badge/JavaScript-225%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/tanilserbes"><img src="https://img.shields.io/badge/Ruby-157%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/tanilserbes"><img src="https://img.shields.io/badge/HTML-166%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/tanilserbes"><img src="https://img.shields.io/badge/CSS-123%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/tanilserbes"><img src="https://img.shields.io/badge/SQL-49%20commits-orange.svg" alt=""></a>
+
+
+
+<div align="left">
+
 
 # MECHATRONICS ENGINEER WITH BUSINESSS EXPERIENCE
 
@@ -9,6 +38,8 @@ My eventual career goal is to produce the best alghorithms for highimpact
 products that will improve people's lives.
 
 ## Skills
+
+# Profile
 
 # Professional skills
 Advanced Solidworks
