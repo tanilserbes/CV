@@ -16,7 +16,7 @@
 
 [![LinkedIn Profile]](https://www.linkedin.com/in/hibo-abdilaahi-68405017b/)
 
-
+![](https://img.shields.io/badge/ready%20for-hire-brightgreen)
 
 <a href="https://sourcerer.io/tanilserbes"><img src="https://img.shields.io/badge/JavaScript-225%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/tanilserbes"><img src="https://img.shields.io/badge/Ruby-157%20commits-orange.svg" alt=""></a>
