@@ -4,19 +4,17 @@
 
 <div align="center">
 
-[link to Google](http://google.com) | [link to Google](http://google.com) | 
+[![backround](https://img.shields.io/badge/-Background-orange)](#Backround)
+[![Projects](https://img.shields.io/badge/-Projects-grey)](#Projects) 
+[![Skills](https://img.shields.io/badge/-Skills-orange)](#Skills) 
+[![Experience](https://img.shields.io/badge/-Experience-grey)](#Experience) 
+[![Education](https://img.shields.io/badge/-Education-orange)](#Education) 
+[![Interests](https://img.shields.io/badge/-Interests-grey)](#Interests) 
 
-[![profile](https://img.shields.io/badge/-Profile-pink?style=for-the-badge)](#profile)
 
-![Twitter Profile](https://twitter.com/Hibocodes)
-
-[![Twitter Profile]](https://twitter.com/Hibocodes)
-
-[![Email]](mailto:hiboabdilaahi@gmail.com)
-
-[![LinkedIn Profile]](https://www.linkedin.com/in/hibo-abdilaahi-68405017b/)
-
-![](https://img.shields.io/badge/ready%20for-hire-brightgreen)
+[![LinkedIn Profile]](https://www.linkedin.com/in/tanilserbes/)
+[![Email]](mailto:serbestanil@gmail.com)
+[![CodeWars Profile]](https://www.codewars.com/users/tanilserbes)
 
 <a href="https://sourcerer.io/tanilserbes"><img src="https://img.shields.io/badge/JavaScript-225%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/tanilserbes"><img src="https://img.shields.io/badge/Ruby-157%20commits-orange.svg" alt=""></a>
